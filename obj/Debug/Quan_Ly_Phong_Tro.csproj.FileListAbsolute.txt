@@ -1,0 +1,57 @@
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\Quan_Ly_Phong_Tro_11h25_28\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.exe.config
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\Quan_Ly_Phong_Tro_11h25_28\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.exe
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\Quan_Ly_Phong_Tro_11h25_28\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.pdb
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\Quan_Ly_Phong_Tro_11h25_28\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.csprojAssemblyReference.cache
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\Quan_Ly_Phong_Tro_11h25_28\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.csproj.CoreCompileInputs.cache
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\Quan_Ly_Phong_Tro_11h25_28\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.exe
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\Quan_Ly_Phong_Tro_11h25_28\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.pdb
+C:\Users\nguye\Desktop\Quan_Ly_Phong_Tro_11h25_28\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.exe.config
+C:\Users\nguye\Desktop\Quan_Ly_Phong_Tro_11h25_28\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.exe
+C:\Users\nguye\Desktop\Quan_Ly_Phong_Tro_11h25_28\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.pdb
+C:\Users\nguye\Desktop\Quan_Ly_Phong_Tro_11h25_28\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\Quan_Ly_Phong_Tro_11h25_28\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\Quan_Ly_Phong_Tro_11h25_28\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.exe
+C:\Users\nguye\Desktop\Quan_Ly_Phong_Tro_11h25_28\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.pdb
+D:\Lap_trinh_huong_doi_tuong\lam_bang_Csharp_VS2019_\Chuanbicuoiky\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.exe.config
+D:\Lap_trinh_huong_doi_tuong\lam_bang_Csharp_VS2019_\Chuanbicuoiky\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.exe
+D:\Lap_trinh_huong_doi_tuong\lam_bang_Csharp_VS2019_\Chuanbicuoiky\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.pdb
+D:\Lap_trinh_huong_doi_tuong\lam_bang_Csharp_VS2019_\Chuanbicuoiky\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.csproj.AssemblyReference.cache
+D:\Lap_trinh_huong_doi_tuong\lam_bang_Csharp_VS2019_\Chuanbicuoiky\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.csproj.CoreCompileInputs.cache
+D:\Lap_trinh_huong_doi_tuong\lam_bang_Csharp_VS2019_\Chuanbicuoiky\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.exe
+D:\Lap_trinh_huong_doi_tuong\lam_bang_Csharp_VS2019_\Chuanbicuoiky\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.pdb
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\Quan_Ly_Phong_Tro_7h44pm_1\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.exe.config
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\Quan_Ly_Phong_Tro_7h44pm_1\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.exe
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\Quan_Ly_Phong_Tro_7h44pm_1\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.pdb
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\Quan_Ly_Phong_Tro_7h44pm_1\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.csprojAssemblyReference.cache
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\Quan_Ly_Phong_Tro_7h44pm_1\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.csproj.CoreCompileInputs.cache
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\Quan_Ly_Phong_Tro_7h44pm_1\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.exe
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\Quan_Ly_Phong_Tro_7h44pm_1\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.pdb
+C:\Users\nguye\Desktop\DoAnQuanLyPhongTro\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.exe.config
+C:\Users\nguye\Desktop\DoAnQuanLyPhongTro\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.exe
+C:\Users\nguye\Desktop\DoAnQuanLyPhongTro\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.pdb
+C:\Users\nguye\Desktop\DoAnQuanLyPhongTro\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\DoAnQuanLyPhongTro\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\DoAnQuanLyPhongTro\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.exe
+C:\Users\nguye\Desktop\DoAnQuanLyPhongTro\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.pdb
+E:\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.exe.config
+E:\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.exe
+E:\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.pdb
+E:\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.csprojAssemblyReference.cache
+E:\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.csproj.CoreCompileInputs.cache
+E:\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.exe
+E:\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.pdb
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\DoAnQuanLyPhongTroNhom7\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.exe.config
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\DoAnQuanLyPhongTroNhom7\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.exe
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\DoAnQuanLyPhongTroNhom7\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.pdb
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\DoAnQuanLyPhongTroNhom7\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.csprojAssemblyReference.cache
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\DoAnQuanLyPhongTroNhom7\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.csproj.CoreCompileInputs.cache
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\DoAnQuanLyPhongTroNhom7\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.exe
+E:\2ND YEAR\1ST TERM\OOP\C#\ĐỒ ÁN QUẢN LÝ PHÒNG TRỌ\DoAnQuanLyPhongTroNhom7\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.pdb
+D:\Lap_trinh_huong_doi_tuong\Bai_tap_nop\Baocaocuoiky\Taivexemlai\Quan_Ly_Phong_Tro_C_sharp\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.exe.config
+D:\Lap_trinh_huong_doi_tuong\Bai_tap_nop\Baocaocuoiky\Taivexemlai\Quan_Ly_Phong_Tro_C_sharp\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.exe
+D:\Lap_trinh_huong_doi_tuong\Bai_tap_nop\Baocaocuoiky\Taivexemlai\Quan_Ly_Phong_Tro_C_sharp\Quan_Ly_Phong_Tro\bin\Debug\Quan_Ly_Phong_Tro.pdb
+D:\Lap_trinh_huong_doi_tuong\Bai_tap_nop\Baocaocuoiky\Taivexemlai\Quan_Ly_Phong_Tro_C_sharp\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.csproj.AssemblyReference.cache
+D:\Lap_trinh_huong_doi_tuong\Bai_tap_nop\Baocaocuoiky\Taivexemlai\Quan_Ly_Phong_Tro_C_sharp\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.csproj.SuggestedBindingRedirects.cache
+D:\Lap_trinh_huong_doi_tuong\Bai_tap_nop\Baocaocuoiky\Taivexemlai\Quan_Ly_Phong_Tro_C_sharp\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.csproj.CoreCompileInputs.cache
+D:\Lap_trinh_huong_doi_tuong\Bai_tap_nop\Baocaocuoiky\Taivexemlai\Quan_Ly_Phong_Tro_C_sharp\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.exe
+D:\Lap_trinh_huong_doi_tuong\Bai_tap_nop\Baocaocuoiky\Taivexemlai\Quan_Ly_Phong_Tro_C_sharp\Quan_Ly_Phong_Tro\obj\Debug\Quan_Ly_Phong_Tro.pdb
