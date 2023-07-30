@@ -21,8 +21,8 @@
 -	Công nghệ LINQ.
 ### XÂY DỰNG SƠ ĐỒ ERD
 ![image](https://github.com/Nguyenvsang/OOP_QuanLyPhongTro_C_Sharp/assets/80632518/bedf83a8-bf0d-4c79-8d20-4ae8acb203fb)
-### XÂY DỰNG SƠ ĐỒ QUAN HỆ
-## BẢNG QUAN HỆ CƠ SỞ (ENTITY RELATIONS)
+## XÂY DỰNG SƠ ĐỒ QUAN HỆ
+### BẢNG QUAN HỆ CƠ SỞ (ENTITY RELATIONS)
 1.	LoaiKH (KC:maloaiKH, tenloaiKH)
 2.	Khach (KC:maKH, KN:maloaiKH , hoTen, gioiTinh, ngaySinh, cCCD, 
 queQuan, ngheNghiep)
@@ -36,15 +36,15 @@ queQuan, ngheNghiep)
 10.	NhaTro (KC:manhatro, tennhatro, khuvuc)
 11.	PhongTro (KC:maphong, KN:maloaiphong, KN:manhatro, tenphong, day)
 12.	BangGia ( KC:mabanggia, KN:maphong, gia)
-## BẢNG QUAN HỆ LIÊN KẾT (RELATIONSHIP RELATIONS)
+### BẢNG QUAN HỆ LIÊN KẾT (RELATIONSHIP RELATIONS)
 13.	ChiTietHDThuePhong (KN:maphong, ngaygiodangki, soHDThue, tiendatcoc, ngaydonvao, ngaydonra)
 14.	ChiTietSuDungDV (KN:maphong, ngayGioDangKi)
 15.	TrangBi (KN:maphong, ngaygio)
 #### *Ghi chú: 
 - KC: khoá chính
 - KN: khoá ngoại
-### DANH SÁCH CÂU TRUY VẤN
-## C#
+## DANH SÁCH CÂU TRUY VẤN
+### C#
 1.	Cho biết tổng số lượng khách thuê phòng trọ.
 2.	Cho biết thông tin về khách thứ x (0<x< =tổng số khách).
 3.	Cho biết thông tin của các nhân viên nữ.
@@ -75,7 +75,7 @@ queQuan, ngheNghiep)
 28.	 Cho biết một số tên nhà trọ đầu tiên trong danh sách nhà trọ.
 29.	Tìm các phòng trọ chưa có khách thuê ở.
 30.	Tổng số tiền thu được của chủ trọ theo giá tiền tương ứng.
-## JAVA
+### JAVA
 1.	Cho biết tổng số lượng khách thuê phòng trọ.
 2.	Cho biết thông tin của các nhân viên nữ.
 3.	Cho biết các danh sách khách được nhóm theo quê quán.
